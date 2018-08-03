@@ -7,6 +7,8 @@ A retrospective study was conducted using EMR from patients admitted to the PICU
 ### Results 
 The mean absolute error for RNN predictions were compared to age-normal values. Heart rate was 16.0 vs 20.0 bpm, systolic blood pressure was 9.3 vs 11.0 mmHg, diastolic blood pressure was 9.2 vs 10.6 mmHg, respiratory rate was 5.0 vs 7.1 bpm, serum bicarbonate was 3.2 vs 3.8 mg/dL. 
 
+<img width="933" alt="model 1" src="https://user-images.githubusercontent.com/31297724/43617255-d7dbf1f0-9675-11e8-9555-365ebd2eb731.png"> 
+
 
 ### Conclusion
 The RNN model better approximates patient-specific physiologic states for successful extubation. Such a model can improve current extubation practice by personalizing assessments for extubation readiness, reducing complications associated with unsuccessful extubations.
