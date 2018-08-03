@@ -9,6 +9,10 @@ The mean absolute error for RNN predictions were compared to age-normal values. 
 
 <img width="933" alt="model 1" src="https://user-images.githubusercontent.com/31297724/43617255-d7dbf1f0-9675-11e8-9555-365ebd2eb731.png"> 
 
+<img width="677" alt="model 2" src="https://user-images.githubusercontent.com/31297724/43617276-f400810c-9675-11e8-8c53-5357ba8008f3.png">
+
+<img width="695" alt="model 3" src="https://user-images.githubusercontent.com/31297724/43617280-f593487e-9675-11e8-9496-077b37fbe898.png">
+
 
 ### Conclusion
 The RNN model better approximates patient-specific physiologic states for successful extubation. Such a model can improve current extubation practice by personalizing assessments for extubation readiness, reducing complications associated with unsuccessful extubations.
