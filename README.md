@@ -1,3 +1,6 @@
+
+<img width="625" alt="screen shot 2018-08-08 at 11 12 09" src="https://user-images.githubusercontent.com/31297724/43855945-f61ebbfe-9afb-11e8-8ddd-a8fbf33775be.png">
+
 # Personalized Predictions of Patient Physiologies for Successful Extubation Using Neural Networks
 The methods for predicting extubation success in critically ill children vary among individuals and institutions. Extubation readiness is a subjective assessment based on clinical evaluation of vital signs, lab values, and perceived requirement of ventilatory support. This study defined extubation readiness based on the physiologic state associated with successful extubations and developed a Recurrent Neural Network (RNN) to predict these physiologic states in individual patients.
 
