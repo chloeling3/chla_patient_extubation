@@ -1,3 +1,5 @@
+Link to publication: https://journals.lww.com/ccmjournal/Citation/2019/01001/1211__PERSONALIZED_PREDICTIONS_OF_PATIENT.1166.aspx# 
+
 <img width="883" alt="screen shot 2018-08-08 at 11 13 47" src="https://user-images.githubusercontent.com/31297724/43856012-29585188-9afc-11e8-9078-bbf62697ddbd.png">
 
 
